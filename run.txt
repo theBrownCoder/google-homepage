@@ -1,1 +1,0 @@
-browser-sync start --server --browser "Firefox Developer Edition" --index "index.html" --files "*.html, *.scss, *.css, css/*.css, css/*.scss, scripts/*.js, *.png"
