@@ -85,7 +85,6 @@ a:visited {
 
 .main-content {
     z-index: 0;
-    border: orange 4px dotted;
     height: auto;
 }
 
